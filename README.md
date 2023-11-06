@@ -38,7 +38,7 @@ This mod "fixes" this problem by keeping track of unspawned corpses and adding t
 ## Details
 
 The mod works in the following way:
-1) On actor death check to see if there are any valid tiles for spawning the actor's corpse
+1) On actor death, check to see if there are any valid tiles for spawning the actor's corpse
 2) If there aren't, find an unoccupied tile starting from the bottom right corner of the map
 3) Spawn the corpse on that tile, allowing all normal logic to execute (e.g. drop beast components if applicable)
 4) Move all droppable items (e.g. weapons) from the corner tile to the tile the actor was killed on
@@ -47,7 +47,7 @@ The mod works in the following way:
 
 ## Compatibility
 
-This mod should be compatible with any other mods and safe to add or remove mid-campaign.
+This mod should be compatible with any other mods and be safe to add or remove mid-campaign.
 
 ## Credits
 
