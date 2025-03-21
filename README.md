@@ -1,3 +1,7 @@
+## NOTE!
+
+This mod is no longer necessary as of game version 1.5.1.x and shouldn't be used on that or newer versions.
+
 # Sato's Corpse Loot Fix
 
 A mod for the game Battle Brothers ([Steam](https://store.steampowered.com/app/365360/Battle_Brothers/), [GOG](https://www.gog.com/game/battle_brothers), [Developer Site](http://battlebrothersgame.com/buy-battle-brothers/)).
